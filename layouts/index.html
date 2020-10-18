@@ -1,13 +1,26 @@
 <!doctype html>
 <html lang="en">
   {{ partial "head.html" . }}
-  <body>
-    {{ partial "header.html" . }}
-    <div class="container pb-5">
-      <main id="main">
-        {{ .Content }}
-      </main>
+  <body  class="container">
+    <div class="d-flex">
+      <div class="pt-3 pr-3 pl-3">
+        {{ partial "header.html" . }}
+        <div>
+          <main id="main">
+            {{ .Content }}
+          </main>
+        </div>
+        {{ partial "footer.html" . }}
+      </div>
+      <aside class="pr-3 pl-2 ">
+        <nav class="d-flex flex-column sticky-top mt-3 border border-black-50 section-nav">
+          {{ .TableOfContents }}
+        </nav>
+      </aside>
     </div>
-    {{ partial "footer.html" . }}
   </body>
 </html>
+
+<script>
+  console.log('<-- To Be Continued')
+</script>
