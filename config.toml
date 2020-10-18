@@ -1,0 +1,8 @@
+baseURL = "https://kshannon.github.io/cogs9/"
+languageCode = "en-us"
+title = "Cogs9: Intro To Data Science"
+publishDir = "docs"
+
+[params]
+  courseName = "Cogs 9: Introduction To Data Science"
+  courseDate = "UCSD - 2021 Summer Session I"
