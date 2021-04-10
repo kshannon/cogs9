@@ -8,30 +8,30 @@ author: "Kyle"
 ### Course Information
 **Instructor**: Kyle Shannon (kshannon@ucsd.edu)  
 **Teaching Assistants (TAs)**: TBD  
-**Instructional Assistants (IAs)**: TBD  
+**Instructional Assistants (IAs)**: N/A  
 
-* Term: TBD
-* Day/Time: TBD
-* Location: Remote
-* Gradescope: https://www.gradescope.com/courses/TBD (_Entry Code: TBD, if not auto enrolled_)
-* Zoom Meeting ID: TBD (_Registration link & password on Canvas under Zoom Info module_)
+* Term: Summer Session 1 and 2, 2021
+* Day/Time: M,Tu,W,Th 3:30PM - 4:50PM PDT (15:30 - 16:50 PDT)
+* Location: Remote/Zoom
+* Gradescope: Link & entry code on Canvas
+* Zoom Meeting Info: Registration link & password on Canvas
 * Course Feedback (_anonymous_): [Google Form](https://forms.gle/ivEJdGSdjv4uHJEcA)
 {{< new-line >}}
 
 ### Course Logistics
+
 #### Office Hours
-Due to many students living in a different timezone, we will have several office hours spread throughout the week and include early morning, midday, nightime, and weekend hours. This way there should always be a time for students to drop by and ask questions, get to know us, and learn more about data science! If for some reason these times do not work, or you wish to meet privately, please reach out using our contact info.
+This class is still remote, and students may not all be in San Diego. We want all to give all students an opportunity to join, therefore office hours will be spread throughout the week to include early morning, midday, night-time, and weekend hours. If for some reason these times do not work, or you wish to meet privately, please reach out after class or through email.
 
 {{< bootstrap-table "table table-sm table-striped table-bordered" >}}
- Date & Time (PST) | Location              | Instructional Staff
--------------------|-----------------------|---------------------
- TBD               | Zoom (link on Canvas) | TBD
- TBD               | Zoom (link on Canvas) | TBD
- TBD               | Zoom (link on Canvas) | TBD
+ Date & Time (PDT)   | Location              | Instructional Staff
+---------------------|-----------------------|---------------------
+Info on Canvas       | Zoom (link on Canvas) | Kyle
+ TBD                 | Zoom (link on Canvas) | TBD
 {{< /bootstrap-table >}}
 
 #### Section Times
-There wil be no _section times_. Section hours have been turned into extra office hours (listed above). This allows students that may not be able to make section times (due to time zones, work,  family constraints, and so on) to join discussions and ask questions.
+There will be no _section times_. Section hours have been turned into extra office hours.
 
 {{< bootstrap-table "table table-sm table-striped table-bordered" >}}
 |     | Day | Time (PST) | Location | Staff |
@@ -42,12 +42,13 @@ There wil be no _section times_. Section hours have been turned into extra offic
 ### Course Materials
 - There is **no** textbook
 - All materials will be provided through **Canvas**
-- All individual (i.e. quizzes/exams) and group assignments/final will be submitted and graded through Gradescope
+- All Quizzes, Exams will be taken and graded through Gradescope 
+- All Group Assignments and Final will be submitted and graded through Gradescope
 {{< new-line >}}
 
 ### Course Objectives
 - Comprehend core data science concepts and examine their applications
-- Discuss data privacy and ethics considerations, using real-world examples
+- Discuss data privacy and ethical concerns with real-world examples
 - Identify data science questions and the appropriate analytic approach to answering those questions
 - Effectively communicate data-related topics and projects
 - Demonstrate how to think critically about data, and how to approach problems with a “data-first” mindset
@@ -57,60 +58,61 @@ There wil be no _section times_. Section hours have been turned into extra offic
 ### Grading & Attendance
 #### Grading
 {{< bootstrap-table  "table table-sm table-striped table-bordered" >}}
-|                               | % of Total Grade | 400 Total Points |
-|-------------------------------|:----------------:|:----------------:|
-| 4 Assignments               |               40 |              160   |
-| 2 Exams                     |               30 |              120   |
-| 5 Readings (lowest dropped) |               20 |               80   |
-| Final Project               |              10  |               40   |
-| Bonus                       |              N/A |         10 bonus   |
+|                                    | % of Total Grade |   400 Total Points |
+|------------------------------------|:----------------:|:------------------:|
+| 4 Assignments                      |               40 |              160   |
+| 1 Exam                             |               20 |               80   |
+| 5 Reading Quizzes (lowest dropped) |               20 |               80   |
+| Final Project                      |               20 |               80   |
+| Bonus                              |              N/A |         10 bonus   |
 {{< /bootstrap-table >}}
 
-- **Final exam date**: No final exam, only final project deadline.
-- There are 400 possible points to be earned in this course. To determine your final grade, you will add up all of the points for the above categories and divide your grade by 4. Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/_). Grades are not rounded up, that’s why we included 10 bonus points.
+- **Final exam date**: No final exam, only a final group project.
+- Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that’s why we included 10 bonus points.
 
 #### Grades
-Grades will be released on Canvas within a week after the submission date, often sooner. We will try to send out automated alerts if we do not receive a submission and/or if it fails to be processed, but ultimately it is your responsibility to check your grades and get in touch if any are missing or you think there is a problem.
+Grades will be released on Canvas within a week after the submission date, often sooner. Ultimately it is your responsibility to check your final grade and get in touch if any are missing or you think there is a problem.
 
-#### Assignment Regrades
-We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
-If you think there is a mistake in your grade, please use Gradescope’s regrade request feature to alert us. Please do this within 72 hours and include a few sentences as evidence for why you think your answer was correct (i.e. a specific reference to something said in lecture).
+#### Regrade Policy
+The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about, or plead for an extra point. A grader may incorrectly take off a 1-2 points, but they are also just as likely to give students 1-2 points. In our experience less than 5% of the time a regrade actually results in an increased score. When we regrade, we closely go through the entire assignment again and reevaluate it as a whole. This is not to discourage students from requesting legitimate regrades, but to discourage students from arguing about a 1-2 points (which is worth .0025% of your grade). These discussions require a serious investment of time. We want to spend that time on regrades where a serious issue has occurred, or with helping students learn the material better.
+
+**If you think such an error has occurred please follow these steps:**
+- You have 72 hours to request a regrade
+- Initiate the regrade through Gradescope (if it is a group project, confer w/ your team first and only submit one regrade after your team comes to a concensus)
+- Provide evidence for why your answer is correct and merits a regrade (i.e. a specific reference to something said in lecture, the readings, or office hours)
+- We will get back to you within 48 hours with our final decision. Your score will be lowered, stay the same, or increased based on a whole regrade of the assignment, quiz, etc.
 
 #### Lecture Attendance
-Our goal is to make lecture and discussion section worth your while to attend. However, with the current format of online classes and students potentially being in different time zones, lecture attendance is not required. We will make every effort to record lecture and all guest lectures in case you are unable to attend. Guest lectures are also important to watch because not only will they contain practical real-world info from a data science practitioner, but test questions may be generated from guest lecture material. 
+Our goal is to make lecture and office hours worth your while to attend. However, with the current format of online classes and students potentially being in different time zones, lecture attendance is not required. We will make every effort to record all lectures (including guest lectures) and post it same day. Exam questions may be generated from guest lecture content.
 
 #### Section Attendance
-Discussion section has been removed inlight of Covid-19. Students are dispersed across different time zones and we want to allow each and every student to attend group discussion sections and ask questions about the material. We are therefore adding 8 additional office hours throughout the week. See below for more info.
+Discussion section has been removed due to Covid-19. Students may be dispersed across different time zones and each student may not be able to attend group discussion sections and ask questions about the material. We are therefore adding several additional office hours throughout the week. See below for more info.
 
 #### Office Hours
-We are providing office hours on the weekend, late at night and in the morning. These hours will be used to discuss readings, to get hands-on practice/guidance with projects, and to guide your interest in data science. The assignments throughout the quarter will be used to guide and provide feedback for your final project.Office hours are the perfect time to go over the feedback and gain a firmer understanding of the course content. 
+We are providing office hours on the weekend, late at night and in the morning. These hours will be used to discuss readings, to get hands-on practice/guidance with projects, and to guide your interest in data science. Office hours are the perfect time to go over assignment feedback and gain a firmer understanding of the course content.
 
-Attendance to office hours is not required. However, we would love to see everyone attend at least one office hour session  per week. If for some reason you are unable to attend any of the hours, or are having additional issues, please reach out through Piazza, or email. We are able, and more than happy, to set up additional 1:1 or 1:group meetings with students.
+Office hour attendance is not required. However, we would love to see everyone attend at least one office hour session. If you are unable to make an office hour session and or are having additional issues, please reach out after class or through email. We are more than happy, to set up additional 1:1 or 1:group meeting.
 
-Finally, office hours are a great place for students and instructors to personally interact. We are really interested in hearing about your personal/professional goals, career endeavours, and generally what you want to gain from taking this course. Remember, office hours are not just for going over class questions, but it’s a great place to learn more about current tools, the ins and outs of the field, and what it’s like to work as a data scientist.
+Finally, office hours are a great place to personally interact. We are interested in your goals, career endeavors, and what you want to gain from Cogs 9. Remember, office hours are not only for class material, but also discussing the field of DataSci, Machine Learning and analytics. It's a rapidly changing field and there is always a lot to discuss.
 
 ### Course Assignments & Topics
-This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, awesome, and creative ways. This course will introduce you to topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist. To see what topics will be introduced in this course, see the calendar at the end.
+This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, awesome, and creative ways. This course will introduce you to topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist. To see what topics will be introduced in this course, see the calendar on Canvas.
 
 #### Assignments
-There are four group assignments. Groups must consist of 4-5 people. Groups are typically formed in sections. However because everyone will be virtually attending, we will randomly assign groups during the first few days of class. Group assignments will be sent out to students over piazza. Assignments will focus on applying the concepts covered in lecture and ensuring you’re on the right track for your final project.
+There are four group assignments. Groups typically consist of 3-5 people. Through Canvas we will randomly assign groups during the first few days of class. Students may drop or join late thus we may need to add or remove students from groups within the first week. We appreciate your flexibility and will take into account these potential shifting circumstances when grading the first assignment. Assignments will focus on applying the concepts covered in lecture and readings to ensure you’re on the right track for your final project.
 
 Assignments will be submitted on Gradescope. (We’ll talk about the details for submission in class.) One assignment per group will be submitted. You will receive feedback along with a grade within three days from submission. Feedback from us should be incorporated into subsequent assignments.
 
-Late assignments earn a max of 30 credits (10 points deducted within 72 hours late; no late assignments accepted after 72 hours).
+Late assignments earn a max of either 30/40 or 20/40 points (10 points deducted within the first 24 hours, an additional 10 points after that) no late assignments accepted after 48 hours).
 
 #### Final Project
-The final project is a report on how you would handle a complicated data science project. It’s essentially a culmination of the four assignments all tied together in a nice report. Like the assignments, this report will be submitted as a Jupyter notebook. It will include all the nitty gritty, whys, and hows of the analysis you have chosen. You’ll write about your data science question, find and wrangle data that could be used to answer the question, carry out a descriptive analysis, and describe the analysis you would carry out to answer your question of interest. You WON’T have to actually perform the final part of the analysis to answer the question, just write about it. But if you do make it that far, and can present results, that’s great and will be taken into account (in the form of extra credit on this assignment).
+The final project is a report on how you would handle a complicated data science project. It’s essentially a culmination of the four assignments all tied together in a nice report. Like the assignments, this report will be submitted as a Jupyter notebook. It will include all the nitty gritty, whys, and hows of the analysis you have chosen. You’ll write about your data science question, find and wrangle data that could be used to answer the question, carry out a descriptive analysis, and describe the analysis you would carry out to answer your question of interest. You **WON’T** have to actually perform the final part of the analysis (programming/statistical analysis) to answer the question, just write about how you would perform the analysis and what you expect the outcomes will be. More info on this in class.
 
-#### Exams
-There will be two multiple choice exams covering material in lecture (including guest lectures!) and the readings discussed in section. These exams will be taken at home and you will have 24 hours to complete it, open notes and open resources. You may not work together on the exams. We will check piazza/email periodically during the exam time to answer questions.
+#### Exam
+There will be one multiple choice exam. This exam will cover lecture (including guest lectures) and reading material that you have completed. The exam will be available for 48 hours. Once you begin the exam you will have 3 straight hours to complete it. The three hours must be continuous.  Open notes are fine, but you may not work together. I will provide a partly completed study guide, as well as perform an exam review session after class (recorded).
 
 #### Readings
-Due to the accelerated timeline for a summer course, readings and their accompanying quiz will be due on Gradescope, weekly on Friday by 11:59pm PST, with the exception of the first two readings, due on Sunday at 11:59pm. New readings will be made available immediately following the previous reading’s due date. Reading quizzes are timed (60 minutes), and you only have one attempt. Your lowest quiz score will be dropped when calculating your final grade.  
-
-Readings will be discussed in office hours each week before their due date. Allowing for questions to be asked before quizzes.  
-
-Late reading quizzes will be accepted up to 72 hours, however they will receive a max of 10 points, so ½ credit.  
+Reading quizzes will be available for 48 hours and you will only have one attempt. Once you begin, you will have 60 minutes to complete the quiz. It is open notes, but you must work alone. Your lowest quiz score will be dropped when calculating your final grade. Late reading quizzes will be accepted up to 48 hours, however they will receive a max of 10/20 points, i.e. ½ credit.
 
 #### Planned Readings:
 - R1: Donoho D, 50 Years of Data Science
@@ -123,6 +125,7 @@ Late reading quizzes will be accepted up to 72 hours, however they will receive 
 - R5: Diakopoulos N, Accountability in Algorithmic Decision Making
 - R5: Angwin J, Larson J, Mattu S & Kirchner L, Machine Bias
 
+
 ### Other Good Stuff
 
 #### Class/Web Conduct
@@ -132,7 +135,7 @@ This class will be a welcoming, inclusive, and harassment-free experience for ev
 
 At all times, you should be considerate and respectful. Always refrain from demeaning, discriminatory, or harassing behavior and speech. Last of all, take care of each other.
 
-If you have a concern, please speak with Kyle, or your TAs. If you are uncomfortable doing so, that’s ok! The [OPHD](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html) (Office for the Prevention of Sexual Harassment and Discrimination) and [CARE](https://care.ucsd.edu/) (confidential advocacy and education office for sexual violence and gender-based violence) are wonderful resources on campus.  
+If you have a concern, please speak with Kyle, or your TAs. If you are uncomfortable doing so, that’s ok! The [OPHD](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html) (Office for the Prevention of Sexual Harassment and Discrimination) and [CARE](https://care.ucsd.edu/) (confidential advocacy and education office for sexual violence and gender-based violence) are wonderful resources on campus.
 
 
 #### Academic Integrity
@@ -141,7 +144,7 @@ Don't cheat.
 You are encouraged to (and at times will have to) work together and help one another. However, you are personally responsible for the work you submit. For assignments, it is also your responsibility to ensure you understand everything your group has submitted and to make sure the correct file has been uploaded, that the upload is uncorrupted, and that it renders correctly. Projects may include ideas and code from other sources—but these other sources must be documented with clear attribution. Please review academic integrity policies [here](http://academicintegrity.ucsd.edu).
 
 
-We anticipate you all doing well in this course; however, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in/after class, (2) attending office hours and/or (3) asking for help on Piazza (4) reaching out to course staff.
+We anticipate you all doing well in this course; however, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (i.) asking questions in/after class, (ii.) attending office hours and/or (iii.) reaching out to course staff via email.
 
 
 Cheating and plagiarism have been and will be strongly penalized. If, for whatever reason, Canvas, or Gradescope is down, or something else prohibits you from being able to turn in an assignment on time, immediately contact me by emailing your assignment to me ([kshannon@ucsd.edu](kshannon@ucsd.edu) with subject line “Cogs9”), or else it will be graded as late.
@@ -156,14 +159,13 @@ Contacting the OSD can help you further:
 
 #### Questions & Feedback
 **How to Get Your Question(s) Answered and/or Provide Feedback**  
-It’s great that we have so many ways to communicate, but it can get tricky to figure out who to contact or where your question belongs or when to expect a response. These guidelines are to help you get your question answered as quickly as possible and to ensure that we’re able to get to everyone’s questions. 
+It’s great that we have many ways to communicate, but it can get tricky to figure out who to contact or where your question belongs or when to expect a response. These guidelines are to help you get your question answered as quickly as possible and to ensure that we’re able to get to everyone’s questions. 
 
-That said, to ensure that we’re respecting their time, TAs and IAs have been instructed they’re only obligated to answer questions between normal working hours (M-F 9am-5pm). However, I know that’s not when you may be doing your work. So, please feel free to post whenever is best for you while knowing that if you post late at night or on a weekend, you may not get a response until the next day. As such, do your best not to wait until the last minute to ask a question.
+That said, to ensure that we’re respecting their time, TAs and IAs have been instructed they’re only obligated to answer questions between normal working hours (M-F 9am-5pm). However, I know that’s not when you may be doing your work. So, please feel free to reach out whenever is best for you while knowing that, you may not get a response until the next day. As such, do your best not to wait until the last minute to ask a question. If there is an emergency and you need to contact staff immediately, email Kyle and put "EMERGENCY-COGS9" in the subject line. I will get back to you ASAP.
 
 If you have…
-- **questions about course content** - these are awesome! We want everyone to see them and have their questions answered too….so post these to Piazza!
-- **questions about course logistics** - first, check the syllabus. If the answer is not there, check or post on Piazza or ask a classmate.
-- **questions about a grade** - use Gradescope’s regrade feature within 72 hours.
+- **questions about course content** - these are awesome! We want everyone to see them and have their questions answered, please post questions to Canvas, or ask during class/office hours.
+- **questions about course logistics** - first, check the syllabus. If the answer is not there, check or post on Canvas, ask a classmate, or ask during class/office hours.
 - **something super cool to share related to class** - feel free to email Kyle [kshannon@ucsd.edu](kshannon@ucsd.edu)) or come to office hours. Be sure to include COGS9 in the email subject line and your full name in your message.
 - **something you want to talk about in-depth** - meet in person/digitally during office hours or schedule a time to meet 1:1 by email. Be sure to include COGS9 in the email subject line. Or it may be missed. [kshannon@ucsd.edu](kshannon@ucsd.edu). 
 - **some feedback about the course you want to share anonymously** - If you been offended by an example in class, really liked or really disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://forms.gle/ivEJdGSdjv4uHJEcA)*
