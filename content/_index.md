@@ -20,16 +20,6 @@ author: "Kyle"
 
 ### Course Logistics
 
-#### Office Hours
-This class is still remote, and students may not all be in San Diego. We want all to give all students an opportunity to join, therefore office hours will be spread throughout the week to include early morning, midday, night-time, and weekend hours. If for some reason these times do not work, or you wish to meet privately, please reach out after class or through email.
-
-{{< bootstrap-table "table table-sm table-striped table-bordered" >}}
- Date & Time (PDT)   | Location              | Instructional Staff
----------------------|-----------------------|---------------------
-Info on Canvas       | Zoom (link on Canvas) | Kyle
- TBD                 | Zoom (link on Canvas) | TBD
-{{< /bootstrap-table >}}
-
 #### Section Times
 There will be no _section times_. Section hours have been turned into extra office hours.
 
@@ -38,7 +28,17 @@ There will be no _section times_. Section hours have been turned into extra offi
 |-----|-----|------------|----------|-------|
 | A01 | N/A | N/A        | N/A      | N/A   |
 {{< /bootstrap-table >}}
+#### Office Hours
+Because we are still remote, and we want all students to have an opportunity to join, office hours will be spread throughout the week to include early morning, midday, night-time, and weekend hours.
 
+Office hour attendance is not required. If you are unable to make an office hour session and or are having additional issues, please reach out after class or through email. We are more than happy, to set up additional 1:1 or 1:group meeting. Finally, office hours are a great place to personally interact. We are interested in your goals, career endeavors, and what you want to gain from Cogs 9. Data Science is a rapidly changing field and there is always a lot to discuss.
+
+{{< bootstrap-table "table table-sm table-striped table-bordered" >}}
+ Date & Time (PDT)   | Location              | Instructional Staff
+---------------------|-----------------------|---------------------
+Info on Canvas       | Zoom (link on Canvas) | Kyle
+ TBD                 | Zoom (link on Canvas) | TBD
+{{< /bootstrap-table >}}
 ### Course Materials
 - There is **no** textbook
 - All readings, lecture slides, assignments, and final are provided through **Canvas**
@@ -86,14 +86,6 @@ Our goal is to make lecture and office hours worth your while to attend. However
 
 #### Section Attendance
 Discussion section has been removed due to Covid-19. Students may be dispersed across different time zones and each student may not be able to attend group discussion sections and ask questions about the material. We are therefore adding several additional office hours throughout the week. See below for more info.
-
-#### Office Hours
-We are providing office hours on the weekend, late at night and in the morning. These hours will be used to discuss readings, to get hands-on practice/guidance with projects, and to guide your interest in data science. Office hours are the perfect time to go over assignment feedback and gain a firmer understanding of the course content.
-
-Office hour attendance is not required. However, we would love to see everyone attend at least one office hour session. If you are unable to make an office hour session and or are having additional issues, please reach out after class or through email. We are more than happy, to set up additional 1:1 or 1:group meeting.
-
-Finally, office hours are a great place to personally interact. We are interested in your goals, career endeavors, and what you want to gain from Cogs 9. Remember, office hours are not only for class material, but also discussing the field of DataSci, Machine Learning and analytics. It's a rapidly changing field and there is always a lot to discuss.
-
 ### Course Assignments & Topics
 This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, awesome, and creative ways. This course will introduce you to topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist. To see what topics will be introduced in this course, see the calendar (dates and lecture topics subject to change) on Canvas.
 
