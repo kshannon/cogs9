@@ -6,9 +6,9 @@ author: "Kyle"
 ---
 
 ### Course Information
-**Instructor**: Kyle Shannon (kshannon@ucsd.edu)  
-**Teaching Assistants (TAs)**: TBD  
-**Instructional Assistants (IAs)**: N/A  
+**Instructor**: Kyle Shannon (kshannon@ucsd.edu)
+**Teaching Assistants (TAs)**: TBD
+**Instructional Assistants (IAs)**: N/A
 
 * Term: Summer Session 1 and 2, 2021
 * Day/Time: M,Tu,W,Th 3:30PM - 4:50PM PDT (15:30 - 16:50 PDT)
@@ -57,13 +57,13 @@ Info on Canvas       | Zoom (link on Canvas) | Kyle
 ### Grading & Attendance
 #### Grading
 {{< bootstrap-table  "table table-sm table-striped table-bordered" >}}
-|                                    | % of Total Grade |   400 Total Points |
-|------------------------------------|:----------------:|:------------------:|
-| 4 Assignments                      |               40 |              160   |
-| 1 Exam                             |               20 |               80   |
-| 5 Reading Quizzes (lowest dropped) |               20 |               80   |
-| Final Project                      |               20 |               80   |
-| Bonus                              |              N/A |         10 bonus   |
+|                                               | % of Total Grade |   400 Total Points |
+|-----------------------------------------------|:----------------:|:------------------:|
+| 4 Assignments                                 |               40 |              160   |
+| 1 Exam                                        |               20 |               80   |
+| 5 Reading Quizzes (lowest quiz score dropped) |               20 |               80   |
+| Final Project                                 |               20 |               80   |
+| Bonus                                         |              N/A |         10 bonus   |
 {{< /bootstrap-table >}}
 
 - **Final exam date**: No final exam, only a final group project.
@@ -90,7 +90,7 @@ Discussion section has been removed due to Covid-19. Students may be dispersed a
 This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, awesome, and creative ways. This course will introduce you to topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist. To see what topics will be introduced in this course, see the calendar (dates and lecture topics subject to change) on Canvas.
 
 #### Assignments
-Assignment groups typically consist of 3-5 people. Through Canvas we will randomly assign groups during the first few days of class. Because students may drop or join late, we may need to add or remove students from groups within the first week. We appreciate your flexibility and will take these circumstances into account when grading the first assignment.
+Assignments will focus on applying the concepts covered in lecture and readings. All assignments will be performed in groups. Groups typically consist of 3-5 people. Students will be randomly assigned into groups on Canvas during the first few days of class. Because students may drop or join late, we may need to add or remove students from groups within the first week. We appreciate your flexibility and will take these circumstances into account when grading the first assignment.
 
 - Four group assignments submitted through Gradescope
 - Submit as a PDF from the Google Doc template link provided on Canvas
@@ -99,11 +99,11 @@ Assignment groups typically consist of 3-5 people. Through Canvas we will random
 - Late assignments have 10 points deducted within the first 24 hours, an additional 10 points after that
 - No late assignments accepted after 48 hours
 
-Assignments will focus on applying the concepts covered in lecture and readings to ensure you’re on the right track for your final project. Your team may resubmit an assignment as many times as you want up until the deadline.
+Your team will make a copy of my Google document template and work on that copy together. Make sure to read all the instructions. Your team may resubmit an assignment as many times as you want up until the submission deadline. You will receive feedback along with a grade within a week (often sooner) after the assignment sue date. Feedback from us should be incorporated into subsequent assignments, especially your final project.
 
-Your team will make a copy of my template and work on your copy together. Make sure to read all the instructions. You will receive feedback along with a grade within three days from submission. Feedback from us should be incorporated into subsequent assignments.
+**A Note On Teamwork**
 
-Teamwork is essential to success in real world data science projects. We want you to get as much experience working in a team as possible. If your team feels members are not contributing equally it is your team's responsibility to reach out to course staff. We will intervene and if the student(s) does not begin to contribute equally we reserve the right to grade them separately from the team on all assignments and the final. But please first try to resolve any conflicts internally. Finally, we understand working remotely is challenging. We will take it into consideration when grading and resolving disputes.
+Teamwork and communication is essential to success in real world data science projects. We want you to get as much experience working in a team as possible. If your team feels members are not contributing equally it is your team's responsibility to resolve these issues, and if you cannot, then reach out to course staff. We will intervene and if the student(s) does not begin to contribute equally we reserve the right to grade them separately from the team on all assignments and the final. But please first try to resolve any conflicts internally. Finally, we understand working remotely is even more so challenging. We will take it into consideration when grading and resolving disputes.
 
 #### Final Project
 The final project is a report on how you would handle a complicated data science project. It’s essentially a culmination of the four assignments all tied together in a nice report.
@@ -113,7 +113,7 @@ The final project is a report on how you would handle a complicated data science
 - Your team may resubmit as many times as you like before the deadline
 - No late submissions accepted
 
-Your final will include all the nitty gritty, whys, and hows of the analysis you have chosen. You’ll write about your data science question, find and explain how you would wrangle data that could be used to answer the question, how you would carry out a descriptive analysis, and describe the analysis you would carry out to answer your question of interest. You **WON’T** have to actually perform the analysis to answer the question, just write about how you would perform the analysis and what you expect the outcomes will be. We will discuss this in more depth in class.
+Your final will include all the nitty gritty, whys, and hows of the analysis you have chosen. You’ll write about your data science question, find and explain how you would wrangle data that could be used to answer the question, how you would carry out a descriptive analysis, and describe the analysis you would carry out to answer your question of interest. You **WILL NOT** have to actually perform the analysis to answer the question, just write about how you would perform the analysis and what you expect the outcomes will be. We will discuss this in more depth in class.
 
 #### Exam
 The exam will cover the lectures and reading assignments that have been completed. I will provide a partly completed study guide ~4 days before the exam, and give an exam review session after class (recorded).
