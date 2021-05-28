@@ -7,7 +7,7 @@ author: "Kyle"
 
 ### Course Information
 **Instructor**: Kyle Shannon (kshannon@ucsd.edu)
-**Teaching Assistants (TAs)**: TBD
+**Teaching Assistants (TAs)**: Oisin Parkinsoncoombs (oparkins@ucsd.edu), Matthew Feigelis (mfeigeli@ucsd.edu)
 **Instructional Assistants (IAs)**: N/A
 
 * Term: Summer Session 1 and 2, 2021
@@ -37,7 +37,8 @@ Office hour attendance is not required. If you are unable to make an office hour
  Date & Time (PDT)   | Location              | Instructional Staff
 ---------------------|-----------------------|---------------------
 Info on Canvas       | Zoom (link on Canvas) | Kyle
- TBD                 | Zoom (link on Canvas) | TBD
+Info on Canvas       | Zoom (link on Canvas) | Oisin
+Info on Canvas       | Zoom (link on Canvas) | Matthew
 {{< /bootstrap-table >}}
 ### Course Materials
 - There is **no** textbook
@@ -54,7 +55,7 @@ Info on Canvas       | Zoom (link on Canvas) | Kyle
 - Describe potential pitfalls of data analyses, how to identify them, and how to avoid them
 {{< new-line >}}
 
-### Grading & Attendance
+### Grading, Attendance, & Teamwork
 #### Grading
 {{< bootstrap-table  "table table-sm table-striped table-bordered" >}}
 |                                               | % of Total Grade |   400 Total Points |
@@ -86,15 +87,23 @@ Our goal is to make lecture and office hours worth your while to attend. However
 
 #### Section Attendance
 Discussion section has been removed due to Covid-19. Students may be dispersed across different time zones and each student may not be able to attend group discussion sections and ask questions about the material. We are therefore adding several additional office hours throughout the week. See below for more info.
+
+#### Teamwork Expectations
+Your team will be working on assignments and the final together. We expect some students to contribute at varied levels throughout the course. However, we expect by the end for all students to be more or less equal contributors. No one person should be doing a project, they are meant to be collaborative and give you experience working with people you probably do not know. One successful approach is to first agree on a communication tool/protocol and a schedule. Next, discuss each person’s strengths and divide up responsibilities. Develop a schedule for completing tasks, who is responsible and a backup person in case an emergency situation occurs. Finally, check in regularly throughout the week to ensure progress is being made and leave sometime to check and proof read each other's work. 
+
+**Dealing with non-cooperative team members** -- If an issue occurs first try to work the issue out within your group. Save all documentation, emails, and chats as a record incase you need to contact course staff. We will step in and try to communicate with the student(s) to reach a resolution. If no resolution can be made, or the problem resurfaces, we reserve the right to move the student to a new group, or grade that student separately from the group, or any other action to resolve the issue. There will be mid and final team evaluations. However, if there is an issue do not wait until evals, reach out early if necessary.
+
+**Group work is never easy** -- Teamwork, while difficult (especially during remote learning), is one of the most important skills you should learn and practice during college. In order to succeed communication is critical. You need to be in contact with your group regularly. This will help you keep on top of deliverables and make adjustments if problems should arise. We are always here to help, make use of our experience working in real engineer/science projects.
+
 ### Course Assignments & Topics
 This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, awesome, and creative ways. This course will introduce you to topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist. To see what topics will be introduced in this course, see the calendar (dates and lecture topics subject to change) on Canvas.
 
 #### Assignments
-Assignments will focus on applying the concepts covered in lecture and readings. All assignments will be performed in groups. Groups typically consist of 3-5 people. Students will be randomly assigned into groups on Canvas during the first few days of class. Because students may drop or join late, we may need to add or remove students from groups within the first week. We appreciate your flexibility and will take these circumstances into account when grading the first assignment.
+Assignments will focus on applying the concepts covered in lecture and readings. All assignments will be performed in groups (see the section on teamwork expectations above). Groups typically consist of 3-5 people. Students will be randomly assigned into groups on Canvas during the first few days of class. Because students may drop or join late, we may need to add or remove students from groups within the first week. We appreciate your flexibility and will take these circumstances into account when grading the first assignment.
 
 - Four group assignments submitted through Gradescope
-- Submit as a PDF from the Google Doc template link provided on Canvas
-- One submission per group
+- Use the Google Doc template link (on Canvas), make a copy and work as a group from that copy
+- One PDF submission per group
 - Your team may resubmit as many times as you like before the deadline
 - Late assignments have 10 points deducted within the first 24 hours, an additional 10 points after that
 - No late assignments accepted after 48 hours
@@ -103,7 +112,7 @@ Your team will make a copy of my Google document template and work on that copy 
 
 **A Note On Teamwork**
 
-Teamwork and communication is essential to success in real world data science projects. We want you to get as much experience working in a team as possible. If your team feels members are not contributing equally it is your team's responsibility to resolve these issues, and if you cannot, then reach out to course staff. We will intervene and if the student(s) does not begin to contribute equally we reserve the right to grade them separately from the team on all assignments and the final. But please first try to resolve any conflicts internally. Finally, we understand working remotely is even more so challenging. We will take it into consideration when grading and resolving disputes.
+>Teamwork and communication is essential to success in real world data science projects. We want you to get as much experience working in a team as possible. If your team feels members are not contributing equally it is your team's responsibility to resolve these issues, and if you cannot, then reach out to course staff. We will intervene and if the student(s) does not begin to contribute equally we reserve the right to grade them separately from the team on all assignments and the final. But please first try to resolve any conflicts internally. Finally, we understand working remotely is even more so challenging. We will take it into consideration when grading and resolving disputes.
 
 #### Final Project
 The final project is a report on how you would handle a complicated data science project. It’s essentially a culmination of the four assignments all tied together in a nice report.
