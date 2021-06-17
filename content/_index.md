@@ -7,7 +7,7 @@ author: "Kyle"
 
 ### Course Information
 **Instructor**: Kyle Shannon (kshannon@ucsd.edu)  
-**Teaching Assistants (TAs)**: Oisin Parkinsoncoombs (oparkins@ucsd.edu), Matthew Feigelis (mfeigeli@ucsd.edu)  
+**Teaching Assistants (TAs)**: Oisin Parkinsoncoombs (oparkins@ucsd.edu), Matthew Feigelis (mfeigeli@ucsd.edu), Eric Morgan (e1morgan@ucsd.edu)  
 **Instructional Assistants (IAs)**: N/A  
 
 * Term: Summer Session 1 and 2, 2021
@@ -29,16 +29,17 @@ There will be **no sections**. Sections have been turned into extra office hours
 | A01 | N/A | N/A        | N/A      | N/A   |
 {{< /bootstrap-table >}}
 #### Office Hours
-Because we are still remote, and we want all students to have an opportunity to join, office hours will be spread throughout the week to include early morning, midday, night-time, and weekend hours.
+Interactivity with staff in a remote class is challenging. To offset this challenge office hours will be spread throughout the week to include early morning, midday, night-time, and weekend hours.
 
-Office hour attendance is not required. If you are unable to make an office hour session and or are having additional issues, please reach out after class or through email. We are more than happy, to set up additional 1:1 or 1:group meeting. Finally, office hours are a great place to personally interact. We are interested in your goals, career endeavors, and what you want to gain from Cogs 9. Data Science is a rapidly changing field and there is always a lot to discuss.
+Office hour attendance is not required, but if you are unable to join or are having other issues, please reach out after class or through email. We are more than happy, to set up additional 1:1 or 1:group meetings. Finally, office hours are a great place to personally interact. We are interested in your goals, career endeavors, and what you want to gain from Cogs 9. Data Science is a rapidly changing field and there is always a lot to discuss.
 
 {{< bootstrap-table "table table-sm table-striped table-bordered" >}}
  Date & Time (PDT)   | Location              | Instructional Staff
 ---------------------|-----------------------|---------------------
 Info on Canvas       | Zoom (link on Canvas) | Kyle
-Info on Canvas       | Zoom (link on Canvas) | Oisin
-Info on Canvas       | Zoom (link on Canvas) | Matthew
+Info on Canvas       | Zoom (link on Canvas) | Oisin (summer session 1 & 2)
+Info on Canvas       | Zoom (link on Canvas) | Matthew (summer session 1)
+Info on Canvas       | Zoom (link on Canvas) | Eric (summer session 2)
 {{< /bootstrap-table >}}
 ### Course Materials
 - There is **no** textbook
@@ -50,7 +51,7 @@ Info on Canvas       | Zoom (link on Canvas) | Matthew
 - Comprehend core data science concepts and examine their applications
 - Discuss data privacy and ethical concerns with real-world examples
 - Identify data science questions and the appropriate analytic approach to answering those questions
-- Effectively communicate data-related topics and projects
+- Communicate data-related topics and projects
 - Demonstrate how to think critically about data, and how to approach problems with a “data-first” mindset
 - Describe potential pitfalls of data analyses, how to identify them, and how to avoid them
 {{< new-line >}}
@@ -74,11 +75,11 @@ Info on Canvas       | Zoom (link on Canvas) | Matthew
 Grades will be released on Canvas within a week after the submission date, often sooner. Ultimately it is your responsibility to check your final grade and get in touch if any are missing or you think there is a problem.
 
 #### Regrade Policy
-The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about, or plead for an extra point. A grader may incorrectly take off a 1-2 points, but they are also just as likely to give students 1-2 points. In our experience less than 5% of the time a regrade actually results in an increased score. When we regrade, we closely go through the entire assignment again and reevaluate it as a whole. This means your grade can either stay the same, go up, or go down. This is not to discourage students from requesting legitimate regrades, but to discourage students from arguing about 1-2 points (which is worth .0025% of your grade). These discussions require a serious investment of time. We want to spend that time on regrades where a serious issue has occurred, or with helping students learn the material better.
+The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about, or plead for an extra point. A grader may incorrectly take off a 1-2 points, but they are as likely to give students 1-2 points. In our experience less than 5% of the time a regrade results in a change. When we regrade, we closely go through the entire assignment again and reevaluate it as a whole. This means your grade can either stay the same, go up, or go down. This is not to discourage students from requesting legitimate regrades, but to discourage students from arguing about 1-2 points (which is worth .0025% of your grade). These discussions require a serious investment of time. We want to spend that time on regrades where a serious issue has occurred, or with helping students learn the material better.
 
-**If you think such an error has occurred please follow these steps:**
+**If you think a grading error has occurred please follow these steps:**
 - You have 72 hours to request a regrade
-- Initiate the regrade through Gradescope (if it is a group project, confer w/ your team first and only submit one regrade after your team comes to a concensus)
+- Initiate the regrade through Gradescope (if it is a group project, confer w/ your team first and submit one regrade after your team comes to a concensus)
 - Provide evidence for why your answer is correct and merits a regrade (i.e. a specific reference to something said in lecture, the readings, or office hours)
 - We will get back to you within 48 hours with our final decision.
 
@@ -92,7 +93,7 @@ Discussion section has been removed due to Covid-19. Students may be dispersed a
 This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, awesome, and creative ways. This course will introduce you to topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist. To see what topics will be introduced in this course, see the calendar (dates and lecture topics subject to change) on Canvas.
 
 #### Assignments
-Assignments will focus on applying the concepts covered in lecture and readings. All assignments will be performed in groups (see the section on teamwork expectations below). Groups typically consist of 3-5 people. Students will be randomly assigned into groups on Canvas during the first few days of class. Because students may drop or join late, we may need to add or remove students from groups within the first week. We appreciate your flexibility and will take these circumstances into account when grading the first assignment.
+Assignments will focus on applying the concepts covered in lecture and readings. All assignments will be performed in groups (see the section on teamwork expectations below). Groups consist of 3-5 people. Students will be randomly assigned into groups on Canvas during the first few days of class. Because students may drop or join late, we may need to add or remove students from groups within the first week. We appreciate your flexibility and will take these circumstances into account when grading the first assignment.
 
 - Four group assignments submitted through Gradescope
 - Use the Google Doc template link (on Canvas), make a copy and work as a group from that copy
@@ -104,7 +105,7 @@ Assignments will focus on applying the concepts covered in lecture and readings.
 Your team will make a copy of my Google document template and work on that copy together. Make sure to read all the instructions. Your team may resubmit an assignment as many times as you want up until the submission deadline. You will receive feedback along with a grade within a week (often sooner) after the assignment sue date. Feedback from us should be incorporated into subsequent assignments, especially your final project.
 
 #### Final Project
-The final project is a report on how you would handle a complicated data science project. It’s essentially a culmination of the four assignments all tied together in a nice report.
+The final project is a report on how you would handle a complicated data science project. It’s a culmination of the four assignments all tied together in a nice report.
 
 - One report submitted through Gradescope per group
 - Submit as a PDF from the Google Doc template link provided on Canvas
