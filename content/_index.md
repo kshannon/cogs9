@@ -7,7 +7,7 @@ author: "Kyle"
 
 ### Course Information
 **Instructor**: Kyle Shannon (kshannon@ucsd.edu)  
-**Teaching Assistants (TAs)**: Oisin Parkinsoncoombs (oparkins@ucsd.edu), Matthew Feigelis (mfeigeli@ucsd.edu), Eric Morgan (e1morgan@ucsd.edu)  
+**Teaching Assistants (TAs)**: Oisin Parkinsoncoombs (oparkins@ucsd.edu), Matthew Feigelis (mfeigeli@ucsd.edu)  
 **Instructional Assistants (IAs)**: N/A  
 
 * Term: Summer Session 1 and 2, 2021
@@ -39,7 +39,6 @@ Office hour attendance is not required, but if you are unable to join or are hav
 Info on Canvas       | Zoom (link on Canvas) | Kyle
 Info on Canvas       | Zoom (link on Canvas) | Oisin (summer session 1 & 2)
 Info on Canvas       | Zoom (link on Canvas) | Matthew (summer session 1)
-Info on Canvas       | Zoom (link on Canvas) | Eric (summer session 2)
 {{< /bootstrap-table >}}
 ### Course Materials
 - There is **no** textbook
