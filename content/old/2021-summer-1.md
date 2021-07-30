@@ -7,10 +7,10 @@ author: "Kyle"
 
 ### Course Information
 **Instructor**: Kyle Shannon (kshannon@ucsd.edu)  
-**Teaching Assistants (TAs)**: Oisin Parkinsoncoombs (oparkins@ucsd.edu), Qin Li (qil150@ucsd.edu)  
+**Teaching Assistants (TAs)**: Oisin Parkinsoncoombs (oparkins@ucsd.edu), Matthew Feigelis (mfeigeli@ucsd.edu)  
 **Instructional Assistants (IAs)**: N/A  
 
-* Term: Summer Session 2, 2021
+* Term: Summer Session 1 and 2, 2021
 * Day/Time: M,Tu,W,Th 3:30PM - 4:50PM PDT (15:30 - 16:50 PDT)
 * Location: Remote/Zoom
 * Gradescope: Link & entry code on Canvas
@@ -37,8 +37,8 @@ Office hour attendance is not required, but if you are unable to join or are hav
  Date & Time (PDT)   | Location              | Instructional Staff
 ---------------------|-----------------------|---------------------
 Info on Canvas       | Zoom (link on Canvas) | Kyle
-Info on Canvas       | Zoom (link on Canvas) | Oisin (summer session 2)
-Info on Canvas       | Zoom (link on Canvas) | Qin (summer session 2)
+Info on Canvas       | Zoom (link on Canvas) | Oisin (summer session 1 & 2)
+Info on Canvas       | Zoom (link on Canvas) | Matthew (summer session 1)
 {{< /bootstrap-table >}}
 ### Course Materials
 - There is **no** textbook
