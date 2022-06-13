@@ -4,16 +4,17 @@ date: 2020-10-17T04:03:39Z
 draft: false
 author: "Kyle"
 ---
+
 ### Course Information
 **Instructor**: Kyle Shannon (kshannon@ucsd.edu)  
-**Teaching Assistants (TAs)**: Cameron Robert Jones (c8jones@ucsd.edu), Ashwin Mishra (asmishra@ucsd.edu)  
-**Instructional Assistants (IAs)**: Sizhe Fan (sfan@ucsd.edu)  
+**Teaching Assistants (TAs)**: Oisin Parkinsoncoombs (oparkins@ucsd.edu), Qin Li (qil150@ucsd.edu)  
+**Instructional Assistants (IAs)**: N/A  
 
-* Term: Summer Session 1, 2022
+* Term: Summer Session 2, 2021
 * Day/Time: M,Tu,W,Th 3:30PM - 4:50PM PDT (15:30 - 16:50 PDT)
-* Location: Peterson Hall 104
+* Location: Remote/Zoom
 * Gradescope: Link & entry code on Canvas
-* Zoom Office Hour Info: Registration link & password on Canvas
+* Zoom Meeting Info: Registration link & password on Canvas
 * Course Feedback (_anonymous_): [Google Form](https://forms.gle/ivEJdGSdjv4uHJEcA)
 {{< new-line >}}
 
@@ -28,17 +29,16 @@ There will be **no sections**. Sections have been turned into extra office hours
 | A01 | N/A | N/A        | N/A      | N/A   |
 {{< /bootstrap-table >}}
 #### Office Hours
-Interactivity with course staff in our still semi-remote class is challenging. To offset this challenge office hours will be spread throughout the week and occur both in person and over Zoom.
+Interactivity with staff in a remote class is challenging. To offset this challenge office hours will be spread throughout the week to include early morning, midday, night-time, and weekend hours.
 
 Office hour attendance is not required, but if you are unable to join or are having other issues, please reach out after class or through email. We are more than happy, to set up additional 1:1 or 1:group meetings. Finally, office hours are a great place to personally interact. We are interested in your goals, career endeavors, and what you want to gain from Cogs 9. Data Science is a rapidly changing field and there is always a lot to discuss.
 
 {{< bootstrap-table "table table-sm table-striped table-bordered" >}}
  Date & Time (PDT)   | Location              | Instructional Staff
 ---------------------|-----------------------|---------------------
-Mon, Wed @ 1700      | CSB 255               | Kyle
 Info on Canvas       | Zoom (link on Canvas) | Kyle
-Info on Canvas       | TBD                   | Cameron
-Info on Canvas       | Zoom (link on Canvas) | Ashwin (100% remote over zoom)
+Info on Canvas       | Zoom (link on Canvas) | Oisin (summer session 2)
+Info on Canvas       | Zoom (link on Canvas) | Qin (summer session 2)
 {{< /bootstrap-table >}}
 ### Course Materials
 - There is **no** textbook
@@ -71,10 +71,10 @@ Info on Canvas       | Zoom (link on Canvas) | Ashwin (100% remote over zoom)
 - Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that’s why we included 10 bonus points.
 
 #### Grades
-Grades are released on Canvas often a week after the submission date, typically sooner. Ultimately it is your responsibility to check your final grade and get in touch if any are missing or you think there is a problem.
+Grades will be released on Canvas within a week after the submission date, often sooner. Ultimately it is your responsibility to check your final grade and get in touch if any are missing or you think there is a problem.
 
 #### Regrade Policy
-The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about, or plead for an extra point. A grader may incorrectly take off a 1-2 points, but they are as likely to give students 1-2 points. In our experience less than 5% of the time a regrade results in a change. When we regrade, we closely go through the entire assignment again and reevaluate it as a whole. This means your grade can either stay the same, go up, or go down. This is not to discourage students from requesting legitimate regrades, but to discourage students from arguing about 1-2 points (which is worth .0025% of your grade). These discussions require a serious investment of time. We want to spend that time on regrades where a serious issue has occurred, or with helping students learn the material outside of class.
+The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about, or plead for an extra point. A grader may incorrectly take off a 1-2 points, but they are as likely to give students 1-2 points. In our experience less than 5% of the time a regrade results in a change. When we regrade, we closely go through the entire assignment again and reevaluate it as a whole. This means your grade can either stay the same, go up, or go down. This is not to discourage students from requesting legitimate regrades, but to discourage students from arguing about 1-2 points (which is worth .0025% of your grade). These discussions require a serious investment of time. We want to spend that time on regrades where a serious issue has occurred, or with helping students learn the material better.
 
 **If you think a grading error has occurred please follow these steps:**
 - You have 72 hours to request a regrade
@@ -83,45 +83,44 @@ The regrade policy is here to protect students from serious issues in grading, n
 - We will get back to you within 48 hours with our final decision.
 
 #### Lecture Attendance
-Our goal is to make lecture and office hours worth your while to attend. However, lecture attendance is not required. All lectures have been previously recorded (from the previous summer) and will be uploaded onto Canvas the same or next day.
+Our goal is to make lecture and office hours worth your while to attend. However, lecture attendance is not required. We will make every effort to record all lectures (including guest lectures) and post it same day. Occasionally there may be an issue with Canvas and the recording might not show up till the following day. If there is a technical issue, I will still be able to post a lecture recording from last year.
 
 #### Section Attendance
-Discussion section has been removed due to Covid-19. Some students and TAs are still dispersed across different time zones. We are therefore adding several additional office hours throughout the week.
+Discussion section has been removed due to Covid-19. Students may be dispersed across different time zones and each student may not be able to attend group discussion sections and ask questions about the material. We are therefore adding several additional office hours throughout the week. See below for more info.
 
 ### Course Assignments & Topics
 This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, awesome, and creative ways. This course will introduce you to topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist. To see what topics will be introduced in this course, see the calendar (dates and lecture topics subject to change) on Canvas.
 
 #### Assignments
-Assignments will focus on applying the concepts covered in lecture and readings. All assignments will be performed in groups (see the section on teamwork expectations below). Groups consist of 3-5 people. Students will be randomly assigned into groups on Canvas during the first week of class. Because students may drop or join late, we may need to add or remove students from groups within the first week. We appreciate your flexibility and will take these circumstances into account when grading the first assignment.
+Assignments will focus on applying the concepts covered in lecture and readings. All assignments will be performed in groups (see the section on teamwork expectations below). Groups consist of 3-5 people. Students will be randomly assigned into groups on Canvas during the first few days of class. Because students may drop or join late, we may need to add or remove students from groups within the first week. We appreciate your flexibility and will take these circumstances into account when grading the first assignment.
 
 - Four group assignments submitted through Gradescope
-- Use the Google Doc template link (found on Canvas), **make a copy of the template** and work as a group on that copy. You do not have edit access on the version that is linked on Canvas, only the ability to copy it.
+- Use the Google Doc template link (on Canvas), make a copy and work as a group from that copy
 - One PDF submission per group
 - Your team may resubmit as many times as you like before the deadline
-- Late assignments have 10 points deducted within the first 24 hours, an additional 10 points during the following 24 hours.
+- Late assignments have 10 points deducted within the first 24 hours, an additional 10 points after that
 - No late assignments accepted after 48 hours
-- Incorporate feedback from us into your next assignment
 
-To reiterate, your team will make a copy of my Google document template and work on that copy together. Make sure to read all the instructions. Your team may resubmit an assignment as many times as you want up until the submission deadline. You will receive feedback along with a grade typically within a week (often sooner) after the assignment due date. Feedback from us should be incorporated into subsequent assignments, especially your final project.
+Your team will make a copy of my Google document template and work on that copy together. Make sure to read all the instructions. Your team may resubmit an assignment as many times as you want up until the submission deadline. You will receive feedback along with a grade within a week (often sooner) after the assignment sue date. Feedback from us should be incorporated into subsequent assignments, especially your final project.
 
 #### Final Project
-The final project is a report on how you would handle a complicated data science project. It’s a culmination of what you learned from the first four assignments.
+The final project is a report on how you would handle a complicated data science project. It’s a culmination of the four assignments all tied together in a nice report.
 
 - One report submitted through Gradescope per group
 - Submit as a PDF from the Google Doc template link provided on Canvas
 - Your team may resubmit as many times as you like before the deadline
 - No late submissions accepted
 
-Your final will include your data science question aswell as all the nitty gritty, whys, and hows of the data science project you have chosen. You’ll write about your data science question, find example data, summarize the data, explain how you would wrangle the data to answer your data science question, and describe the types of analysis you would carry out to answer your question of interest. You **WILL NOT** have to actually perform the analysis to answer the question, nor wrangle data, you only write about how you would perform the analysis and what you expect the outcomes will be. We will discuss this in more depth in class.
+Your final will include all the nitty gritty, whys, and hows of the analysis you have chosen. You’ll write about your data science question, find and explain how you would wrangle data that could be used to answer the question, how you would carry out a descriptive analysis, and describe the analysis you would carry out to answer your question of interest. You **WILL NOT** have to actually perform the analysis to answer the question, just write about how you would perform the analysis and what you expect the outcomes will be. We will discuss this in more depth in class.
 
 #### Exam
-The exam will cover the lectures and reading assignments that have been completed. A recorded exam review session will occur before the exam (date: TBD).
+The exam will cover the lectures and reading assignments that have been completed. I will provide a partly completed study guide ~4 days before the exam, and we will give a recorded exam review session after class (date: TBD).
 
-- One multiple choice exam
-- Available for 48 hours on Gradescope
+- One multiple choice (40 questions) exam
+- Available for 48 hours
 - You have 2 continuous hours to finish
 - One attempt
-- Open notes, but you must work alone
+- Open notes, but you must work alone.
 - Taken and submitted through Gradescope
 
 No late exams are permitted, except for extenuating circumstances. Please reach out to staff via email as early as possible if you know something will prevent you from taking the exam on time.
@@ -155,7 +154,7 @@ Readings will cover many of the broad topics found within Data Science, both fro
 ### Other Good Stuff
 
 #### Teamwork Expectations
-Your team will be working on assignments and the final together. We expect some students to contribute at varied levels throughout the course. However, we expect by the end for all students to be more or less equal contributors. No one person should be doing a project, they are meant to be collaborative and give you experience working with people you probably do not know. One successful approach is to first agree on a communication tool/protocol and a schedule. Next, discuss each person’s strengths and divide up responsibilities. Develop a schedule for completing tasks, who is responsible and a backup person in case an emergency situation occurs. Finally, check in regularly throughout the week to ensure progress is being made and leave sometime to check and proof read each other's work. Especially because some students in your group may be remote.
+Your team will be working on assignments and the final together. We expect some students to contribute at varied levels throughout the course. However, we expect by the end for all students to be more or less equal contributors. No one person should be doing a project, they are meant to be collaborative and give you experience working with people you probably do not know. One successful approach is to first agree on a communication tool/protocol and a schedule. Next, discuss each person’s strengths and divide up responsibilities. Develop a schedule for completing tasks, who is responsible and a backup person in case an emergency situation occurs. Finally, check in regularly throughout the week to ensure progress is being made and leave sometime to check and proof read each other's work. 
 
 **Dealing with non-cooperative team members** -- If an issue occurs first try to work the issue out within your group. Save all documentation, emails, and chats as a record incase you need to contact course staff. We will step in and try to communicate with the student(s) to reach a resolution. If no resolution can be made, or the problem resurfaces, we reserve the right to move the student to a new group, or grade that student separately from the group, or any other action to resolve the issue. There will be mid and final team evaluations. However, if there is an issue do not wait until evals, reach out early if necessary.
 
