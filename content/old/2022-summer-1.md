@@ -6,7 +6,7 @@ author: "Kyle"
 ---
 ### Course Information
 **Instructor**: Kyle Shannon (kshannon@ucsd.edu)  
-**Teaching Assistants (TAs)**: Akshay Nagarajan (anagaraj@ucsd.edu), Ashwin Mishra (asmishra@ucsd.edu)  
+**Teaching Assistants (TAs)**: Cameron Robert Jones (c8jones@ucsd.edu), Ashwin Mishra (asmishra@ucsd.edu)  
 **Instructional Assistants (IAs)**: Sizhe Fan (sfan@ucsd.edu)  
 
 * Term: Summer Session 1, 2022
@@ -36,10 +36,9 @@ Office hour attendance is not required, but if you are unable to join or are hav
  Date & Time (PDT)   | Location              | Instructional Staff
 ---------------------|-----------------------|---------------------
 Mon, Wed @ 1700      | CSB 255               | Kyle
-Fri @ 0900           | Zoom (link on Canvas) | Kyle
-Info on Canvas       | TBD                   | Akshay
-Info on Canvas       | Zoom (link on Canvas) | Ashwin
-Info on Canvas       | Zoom (link on Canvas) | Sizhe
+Info on Canvas       | Zoom (link on Canvas) | Kyle
+Info on Canvas       | TBD                   | Cameron
+Info on Canvas       | Zoom (link on Canvas) | Ashwin (100% remote over zoom)
 {{< /bootstrap-table >}}
 ### Course Materials
 - There is **no** textbook
