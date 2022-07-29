@@ -5,7 +5,7 @@ publishDir = "docs"
 
 [params]
   courseName = "Cogs 9: Introduction To Data Science"
-  courseDate = "UCSD - 2021 Summer Session I and II"
+  courseDate = "UCSD - 2022 Summer Session II"
 
 [markup]
   [markup.tableOfContents]

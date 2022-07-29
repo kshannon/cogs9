@@ -9,7 +9,7 @@ author: "Kyle"
 **Teaching Assistants (TAs)**: Akshay Nagarajan (anagaraj@ucsd.edu), Ashwin Mishra (asmishra@ucsd.edu)  
 **Instructional Assistants (IAs)**: Sizhe Fan (sfan@ucsd.edu)  
 
-* Term: Summer Session 1, 2022
+* Term: Summer Session 2, 2022
 * Day/Time: M,Tu,W,Th 3:30PM - 4:50PM PDT (15:30 - 16:50 PDT)
 * Location: Peterson Hall 104
 * Gradescope: Link & entry code on Canvas
